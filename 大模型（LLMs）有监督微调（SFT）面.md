@@ -258,9 +258,6 @@
 
 ---
 
-###  GitHub 整理建议
-
-你可以将数据准备过程总结为一个流程图（Mermaid）：
 
 ```mermaid
 graph TD
